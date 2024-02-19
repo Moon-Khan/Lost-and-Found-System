@@ -5,9 +5,6 @@ A lost and found system for a university in web development is a platform or app
 
 The system allows users to report lost items through an online form, which includes details about the item, the location where it was lost, and the contact information of the person who lost it. The system then stores this information in a database and notifies users if their lost item has been found.
 
-
-
-
 ## Features
 
 - Users can register and create an account.
@@ -16,9 +13,7 @@ The system allows users to report lost items through an online form, which inclu
 - Users can view a list of found items and their details, and contact the owner if they recognize an item as their lost item.
 - Admins can manage user accounts and items reported.
 - Users will receive notifications on their email when their lost item has been found.
-
-
-
+  
 
 ## Documentation
 
@@ -45,11 +40,6 @@ To run this system locally, follow these steps:
 - Create a .env file in the project directory with the following variables:
 - Install mysql using xampp
   
-    
-## Feedback
-
-If you have any feedback, please reach out to us at f200390@cfd.nu.edu.pk
-
 
 ## License
 
@@ -57,13 +47,12 @@ open source license
 
 
 ## Contact Info
-Github URL: https://github.com/Faizi-48/Web-Final-Project.git
 
 Emails
 
-Faizan Haider: f200390@cfd.nu.edu.pk
-
 Mamoon Khan: f200361@cfd.nu.edu.pk
+
+Faizan Haider: f200390@cfd.nu.edu.pk
 
 Waqas Dost:f200333@cfd.nu.edu.pk
 ## Usage
